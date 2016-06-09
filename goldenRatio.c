@@ -5,7 +5,13 @@
 
         Golden Ratio Search
 
-  Algorithm Referance: Steve C. Chapra & Raymond P. Canale' book
+  @Algorithm Referance: Steve C. Chapra & Raymond P. Canale' book
+  
+  
+  goldenRatioSearch function takes two arguments as boundDown and boundUp
+  and calculates the golden ratio of the function named “function”
+
+  And you can change function function whatever you want
 
 
 */
